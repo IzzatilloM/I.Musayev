@@ -6,21 +6,24 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=IMusayev&theme=dark&background=000000" alt="I Musayevning GitHub statistikasi" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=IzzatilloM&theme=dark&background=000000" alt="I Musayevning GitHub statistikasi" />
     </td>
     <td>
-      <img height="195px" align="right" alt="I Musayevning GitHub tillari" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IMusayev&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="I Musayevning GitHub tillari" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IzzatilloM&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-![I Musayevning GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=IMusayev&show_icons=true&theme=chartreuse-dark)
+![I Musayevning GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=IzzatilloM&show_icons=true&theme=chartreuse-dark)
 
 ### 🤝 Ijtimoiy tarmoqlar:
 <a href="https://t.me/YOUR_TELEGRAM_CHANNEL" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram kanali" />
 </a>
+<a href="https://github.com/IzzatilloM" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" height="40" alt="GitHub profili" />
+</a>
 
 <!--
-**IMusayev/IMusayev** bu ✨ _alohida_ ✨ repositoriy, chunki uning `README.md` (ushbu fayl) sizning GitHub profilingizda ko‘rinadi.
+**IzzatilloM/IzzatilloM** bu ✨ _alohida_ ✨ repositoriy, chunki uning `README.md` (ushbu fayl) sizning GitHub profilingizda ko‘rinadi.
 -->
